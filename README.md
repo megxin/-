@@ -8,4 +8,4 @@
 ・Java　　　　　　　一年　　　授業　　　　授業課題  
 ・OpenCV　　　　　　半年　　　授業　　　　画像の対象物距離計算アプリ、zoomの背景加工のようなもの  
 ・HTTP&CSS　　　　　半年　　　趣味　　　　実際にwebpageを作成した(Progate)  
-・Linuxコマンド     5年　　　授業&趣味　　授業課題とdocker&kubernetes構築の際利用  
+・Linuxコマンド　　　5年　　　授業&趣味　　授業課題とdocker&kubernetes構築の際利用  
